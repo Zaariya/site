@@ -1,0 +1,34 @@
+---
+layout: default
+title: Preeti Sahu
+---
+<h1 class="center-align">{{page.title}}</h1>
+<div class="container">
+Like many of us, I too was living the life of a “passive” supporter of child education, social equality, etc.. At home, I had silently obeyed my mother when she instructed me to hand the sweeper his/ her money carefully enough so that I don’t happen to touch him/her(as they are of low caste).. Even after coming to NISER, I could feel those invisible walls between those in the slum (just outside NISER) and us. They were so many slum kids playing out there and yet not a single one ever dashed into us while playing! This distance was so religiously maintained that I wondered if untouchability was ever removed from our society!
+
+Now when I walk through the same lanes, adjacent to the slum, the girls whom I taught singing, coming rushing to me and plant a kiss lovingly on my cheek and forehead. I feel so human then.. I feel so light as those invisible chains, that had restrained my mind for so long, receded away.
+
+Zaariya helped me fulfill two of my most precious childhood dreams .. teaching and singing. I feel so proud when those girls sing “Vande Utkal Janani” so merrily with me.
+
+Being a volunteer adds some responsibility to the otherwise chaotic life of a college student. You stop indulging yourself, being lazy and an efficient procrastinator ; because now a child’s future is at stake and your role IS pivotal!
+
+This experience changed my ignorant attitude toward the question- “Why do so many of these slum children don’t study ?” I came across a variety of eye-opening situations. We soon realized that each of these diverse and sophisticated cases has to be dealt in a customized way. In the process, it made me a lot more patient and persistent in our endeavors.
+
+Aptly put by Surya- Although I am supposed to play the role of a teacher, it was these children who taught us to zoom out and acknowledge how minuscule are the problems that seems so onerous in our own lives! The children start becoming your daily doze of vivacity.
+
+Tehasin- He was our first ‘Teacher’… He taught us the way to lead a “Khan’s life”. His gregariousness had cast a spell on many of us. It all started the day he gave a tiny bottle of ittar(a natural perfume oil used by many Muslim men and women) to Srijit for safekeeping… and metaphorically, within no time this fragrance found its way to everybody’s heart! There were so many Niserites who loved him dearly and taught him.
+
+After teaching him, we got to know about his aptitude for maths. Even after endless trips to different schools under the scorching sun, we couldn’t find him an apt school within Bhubaneshwar then.
+
+After sending him to Parlekhamundi, now he’s getting a formal education along with his younger brother. His daily phone calls are like stress-busters…Those trivial spellings of primer words, that he spells out to me each day are like music to my ears. I feel content to see him in a safe and nurturing environment- giggling, playing, learning and living his lost childhood again.
+
+Rabi- His gleaming eyes were notably different from other children of his age.. It resembled the lustre of a metal subjected to extreme conditions for purification.. His father had died some years back leaving his second wife(and Rabi’s mother) completely unattended even after being paralyzed and mentally challenged.
+
+I was very fortunate to get the opportunity to teach this little angel. He is a boy of twelve working in a restaurant called ‘Jagannath’ near Omfed parlour. The owner’s elder son, Gyan, himself walked to me to ask me to teach this child. I was glad but had to bargain with him to have a complete hour of class(he insisted on a half an hour class due to excessive work-load on the kid!). Our sessions where so warm that I can barely wait to pick him up each day. He just loved ‘learning’. Even on badminton court his steep learning curve astonished us- keen observation of strategies and immediate execution!
+
+He had an aptitude for both maths and language. But immediately after we disclosed our plan to the shopkeepers, they turned hostile to us. They had cooked up excuses for each day to not send him for the sessions. We started enquiring about the information we had got from the owner, regarding his family conditions, from Rabi’s relatives. Our only contact was with the step-sister. They all seemed to pity the fate of this nearly orphaned child but surprisingly, no one wanted him to study! Gyan, who had bragged a lot about his philanthropy in giving Rabi a ‘life’, soon got utterly pissed off when we started nagging them repeatedly about Rabi’s schooling. The next protagonist- younger son of the owner, used procrastination as his weapon to keep us away. By now, it was quite clear that it was bare monetary benefits that was driving all this rather than philanthropy! They claimed they need Rabi to work and earn to pay back his own sister’s dowry ( worth Rs 40,000 only) in addition to the monthly allowance of Rs 3000 per month, that they send to Rabi’s paralyzed mother via his step-sister! The shop-keepers turned a blind eye to all our inquiries regarding Rabi’s mother. We were compelled to resort to his relatives.
+
+In the process we gradually came across the third protagonist, the husband of his step-sister, who disclosed how dearly they wanted Rabi to work to pay back another 50,000 bucks that he had to spend in their marriage on behalf of his step-sister! He had also planned to redeem his money by making Rabi work in a Saloon! Amidst all these ridiculous plans, we found Rabi gone with his relatives without intimating us. Upon inquiring how did they let him go without intimating us, the owners blamed us for nagging so much; as that made the relatives take the kid with them forever. But fortunately, Rabi returned in 4–5 days. We immediately called the step brother-in-law to ask the duration for which Rabi would be working at the restaurant. He told us that he had come there for merely two days to settle his account with the owner. That day, we gave a last attempt trying to persuade the shopkeepers that it’s them who can help the kid study; but all in vain. We decided to take a legal action against them and reported the police the very same evening.
+
+The next morning, Rabi was evacuated from the restaurant with the help of police and NGO Ruchika’s workers. With no special interrogation, her sister admitted that the kid’s work was seen as the means to pay for the 1 lakh rupees that her husband demanded as dowry. I just hope Rabi overcomes the numerous scars his past life has left him with and regains his lost childhood.
+</div>

@@ -1,0 +1,13 @@
+---
+layout: default
+---
+<h1 class="center align">{{page.title}}</h1>
+<div class="slider">
+<ul class="slides">
+{% for image in site.static_files %}
+{% if image.path contains {{page.search}} %}
+<li><img src={{image.path}}></li>
+{% endif %}
+{% endfor %}
+</ul>
+</div>

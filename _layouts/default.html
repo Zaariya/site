@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <link href="../custom.css" rel="stylesheet">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.97.8/css/materialize.css" rel="stylesheet">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.97.8/js/materialize.js" rel="stylesheet"></script>
+    <script>
+    $(document).ready(function(){
+        $('.slider').slider();
+        $('.slider').height(700);
+        $('.slides').height(640);
+        $('.carousel.carousel-slider').carousel({full_width: true});
+    });
+    </script>
+<meta charset="utf-8" >
+<title>{{page.title}}</title>   
+</head>
+
+<body>
+    
+    <nav class="blue darken-2 hide-on-med-and-down">
+        <div class="nav-wrapper">
+        <a href={{site.baseurl}}/index.html class="brand-logo">
+        <img src="../logo.png" id="logo" class="left">
+            <div>Zaariya</div>
+        </a>
+        <ul class="right">
+        {% for page in site.pages %}
+        {% if page.title == "Events" %}
+            <li><a class="dropdown-button active" href={{site.baseurl}}{{page.url}} data-activates="eventdropdown" data-beloworigin="true" data-constrainwidth="false" data-hover="true">Events</a></li>
+        {% elsif page.title == "Experiences" %}
+            <li><a class="dropdown-button" href={{site.baseurl}}{{page.url}} data-activates="expdropdown" data-beloworigin="true" data-constrainwidth="false" data-hover="true">Experiences</a></li>
+        {% else %}    
+        <li><a href={{site.baseurl}}{{page.url}}>{{page.title}}</a></li>
+        {% endif %}
+        {% endfor %}
+
+    </ul>
+        </div>
+    </nav>
+<ul id="eventdropdown" class="dropdown-content">
+                {% for event in site.events %}
+                <li><a href="{{site.baseurl}}{{event.url}}">{{event.title}}</a></li>
+                {% endfor %}
+</ul>
+<ul id="expdropdown" class="dropdown-content">
+                {% for exp in site.experiences %}
+                <li><a href="{{site.baseurl}}{{exp.url}}">{{exp.title}}</a></li>
+                {% endfor %}
+</ul>
+
+<div class="container">
+{{content}}
+</div>
+</body>
+<footer class="page-footer blue darken-2">
+<div class="footer-copyright">&copy;2017 Sohom Roy</div>
+</footer>
+</html>

@@ -1,0 +1,15 @@
+#logo {
+    height: 64px;
+}
+
+.nav-wrapper {
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.gallery-img {
+  object-fit: cover;
+  width: 200px;
+  height: 200px;
+}
+
+

@@ -1,0 +1,17 @@
+---
+layout: default
+title: Zaariya
+---
+
+<h1 class="center-align">Zaariya</h1>
+    <div class="slider">
+    <ul class="slides">
+      {% for im in site.static_files %}
+        {% if im.path contains 'mainslider'%}
+        <li><img src={{im.path}} class="responsive-img"></li>
+        {% endif %}
+      {% endfor %}
+    </ul>
+    </div>
+</div>
+</div>

@@ -1,0 +1,11 @@
+markdown: redcarpet
+baseurl: /site
+collections:
+    pages:
+        output: true
+    events:
+        output: true
+    experiences:
+        output: true
+    mainslider:
+        output: true
