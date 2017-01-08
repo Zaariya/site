@@ -6,7 +6,7 @@ layout: default
 <ul class="slides">
 {% for image in site.static_files %}
 {% if image.path contains {{page.search}} %}
-<li><img src={{image.path}}></li>
+<li><img src={{site.baseurl}}{{image.path}}></li>
 {% endif %}
 {% endfor %}
 </ul>
