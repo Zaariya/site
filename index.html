@@ -8,7 +8,7 @@ title: Zaariya
     <ul class="slides">
       {% for im in site.static_files %}
         {% if im.path contains 'mainslider'%}
-        <li><img src={{im.path}} class="responsive-img"></li>
+        <li><img src={{site.baseurl}}{{im.path}} class="responsive-img"></li>
         {% endif %}
       {% endfor %}
     </ul>
