@@ -1,5 +1,5 @@
 markdown: redcarpet
-baseurl: /site
+baseurl: 
 collections:
     pages:
         output: true
